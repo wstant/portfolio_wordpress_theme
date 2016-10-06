@@ -1,0 +1,55 @@
+
+@media all and (max-width: 1024px) {
+	.section_content .text {
+		width: 40%;
+	}
+
+	.carousel .carousel-cell {
+	    width: 98%;
+	}
+
+	button.flickity-prev-next-button.next {
+	    right: 31%;
+	    bottom: 50px;
+	}
+
+	.flickity-prev-next-button {
+		top: 105%;
+	}
+
+	button.flickity-prev-next-button.previous {
+	    left: 15%;
+	}
+
+	.flickity-page-dots {
+		right: 8%;
+	}
+}
+
+@media all and (max-width: 940px) {
+	.section_content .text {
+		width: 50%;
+	}
+
+	.skills_gallery {
+		width: 100%;
+		margin-top: 5%;
+		// margin-right: 2%;
+	}
+}
+
+@media all and (max-width: 768px) {
+	
+}
+
+@media all and (max-width: 640px) {
+	
+}
+
+@media all and (max-width: 480px) {
+	
+}
+
+@media all and (max-width: 320px) {
+	
+}
